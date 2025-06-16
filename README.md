@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Salvador Barrionuevo</h1>
 <h3 align="center">Científico de Datos</h3>
 
-- 🔭 Estoy buscando trabajar en **Desarrollo del sitio web institucional del CITDI usando Django**
+- 🔭 Estoy trabajando en **Desarrollo del sitio web institucional del CITDI usando Django**
 
 - 🌱 Actualmente estoy aprendiendo **Deep learning con PyTorch y despliegue de modelos con Docker y Streamlit.**
 
