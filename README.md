@@ -17,7 +17,7 @@
 
 - 📄 Conoce sobre mi experiencia [in/salvador-barrionuevo-gutierrez-579976304/](in/salvador-barrionuevo-gutierrez-579976304/)
 
-- ⚡ Dato curioso **Le enseñé a predecir diabetes a una app antes de aprender a cocinar arroz.**
+- ⚡ Dato curioso: **Le enseñé a predecir diabetes a una app antes de aprender a cocinar arroz.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
