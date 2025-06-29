@@ -3,7 +3,7 @@
 
 - 🔭 Estoy trabajando en **Desarrollo del sitio web institucional del CITDI usando Django**
 
-- 🌱 Actualmente estoy aprendiendo **Deep learning con PyTorch y despliegue de modelos con Docker y Streamlit.**
+- 🌱 Actualmente estoy aprendiendo **Deep learning con PyTorch y despliegue de modelos en AWS.**
 
 - 👯 Estoy buscando colaborar en **Proyectos de ciencia de datos, análisis predictivo o ML.**
 
