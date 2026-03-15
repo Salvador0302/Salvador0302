@@ -1,27 +1,101 @@
 <h1 align="center">Hi 👋, I'm Salvador Barrionuevo</h1>
-<h3 align="center">Científico de Datos</h3>
+<h3 align="center">Data Analytics Trainee @ EY | Systems Engineering Student @ UNI | Building projects in Data Science, ML & AI</h3>
 
-- 🔭 Estoy trabajando en **Desarrollo del sitio web institucional del CITDI usando Django**
+---
 
-- 🌱 Actualmente estoy aprendiendo **Deep learning con PyTorch y despliegue de modelos en AWS.**
+## About me
 
-- 👯 Estoy buscando colaborar en **Proyectos de ciencia de datos, análisis predictivo o ML.**
+- 💼 I’m currently working as a **Data Analytics Trainee at EY**, focused on **Forensics & Integrity / Forensics Data Analytics**
+- 🎓 I’m a **Systems Engineering student at Universidad Nacional de Ingeniería (UNI)**
+- 🔍 My work and projects are centered on **fraud analytics, suspicious pattern detection, predictive modeling, data automation, and AI solutions**
+- 🤖 I’m building a strong portfolio in **Python, SQL, Machine Learning, Data Science, and AI Engineering**
+- 🌱 I’m currently deepening my skills in **machine learning, LLM applications, analytics engineering, and production-oriented AI solutions**
+- 👨‍💻 You can explore my projects here: [github.com/Salvador0302](https://github.com/Salvador0302)
+- 💬 Ask me about **Python, SQL, data analysis, machine learning, fraud analytics, or backend development**
+- 📫 Reach me at **salvador.barrionuevo.g@uni.pe**
+- 🔗 LinkedIn: [linkedin.com/in/salvador-barrionuevo-gutierrez-579976304](https://www.linkedin.com/in/salvador-barrionuevo-gutierrez-579976304/)
 
-- 🤝 Estoy buscando ayuda con **Optimización de modelos en producción y MLOps.**
+---
 
-- 👨‍💻 Todos mis proyectos estan disponibles en [/Salvador0302](/Salvador0302)
+## Current focus
 
-- 💬 Preguntame sobre **Python para análisis de datos, pandas, machine learning, Django backend.**
+- Fraud analytics methodologies and suspicious transaction pattern detection
+- Machine learning and predictive modeling projects
+- AI/LLM solutions for analytics workflows
+- Building a professional portfolio for **ML / AI Engineer** roles
 
-- 📫 Como llegar a mi **salvador.barrionuevo.g@uni.pe**
+---
 
-- 📄 Conoce sobre mi experiencia [in/salvador-barrionuevo-gutierrez-579976304/](in/salvador-barrionuevo-gutierrez-579976304/)
+## Certifications
 
-- ⚡ Dato curioso: **Le enseñé a predecir diabetes a una app antes de aprender a cocinar arroz.**
+- Microsoft Certified: **Azure Fundamentals (AZ-900)**
+- Microsoft Certified: **Azure Data Fundamentals (DP-900)**
+- Microsoft Certified: **Azure AI Fundamentals (AI-900)**
+- **Alteryx Designer Core**
+- **Alteryx Designer Advanced**
 
-<h3 align="left">Connect with me:</h3>
+---
+
+## Languages and Tools
+
 <p align="left">
-<a href="https://linkedin.com/in/salvador barrionuevo gutierrez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="salvador barrionuevo gutierrez" height="30" width="40" /></a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+  </a>
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
+  </a>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  </a>
+  <a href="https://github.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
+  </a>
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+  </a>
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+  </a>
+</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
+
+## Interests
+
+- Fraud Analytics
+- Data Science
+- Machine Learning
+- AI Engineering
+- Predictive Modeling
+- Analytics Automation
+- Backend Development
+
+---
+
+## Featured repositories
+
+Here you’ll find projects related to:
+
+- Machine Learning and predictive analytics
+- AI and data-driven solutions
+- Web development and backend systems
+- Applied analytics and automation workflows
+
+---
+
+## Fun fact
+
+- ⚡ I’m turning real-world analytics problems into projects that move me closer to becoming an **AI Engineer**
