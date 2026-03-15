@@ -98,4 +98,4 @@ Here you’ll find projects related to:
 
 ## Fun fact
 
-- ⚡ I’m turning real-world analytics problems into projects that move me closer to becoming an **AI Engineer**
+⚡ I trained my first machine learning model before mastering how to cook rice.
