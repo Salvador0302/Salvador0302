@@ -13,7 +13,7 @@
 - 👨‍💻 You can explore my projects here: [github.com/Salvador0302](https://github.com/Salvador0302)
 - 💬 Ask me about **Python, SQL, data analysis, machine learning, fraud analytics, or backend development**
 - 📫 Reach me at **salvador.barrionuevo.g@uni.pe**
-- 🔗 LinkedIn: [Click Here!](https://www.linkedin.com/in/barrionuevo-gutierrez-salvador/)
+- 🔗 LinkedIn: [in/barrionuevo-gutierrez-salvador/](https://www.linkedin.com/in/barrionuevo-gutierrez-salvador/)
 
 ---
 
